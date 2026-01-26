@@ -2,9 +2,12 @@
 title: "The Time Machine That Changed Biology Forever"
 description: "How Shinya Yamanaka turned back cellular time with just four factors"
 author: "Devansh Shah"
-date: "2026-01-24"
+date: "2026-01-27"
 categories: [biology, stem cells, nobel prize]
+image: "imgs/yamanaka-2006.png"
 ---
+
+![Shinya Yamanaka and the four factors that revolutionized stem cell biology](imgs/yamanaka-2006.png){fig-alt="Yamanaka factors illustration" width="100%"}
 
 I'm currently reading *Why We Die* by Venki Ramakrishnan, and it got me thinking about one particular type of cell that technically never dies; stem cells. Here's a mind-bending fact: the stem cells in your body right now are the same stem cells your great-great-great-ancestors had centuries ago. They've been passed down through generations, living through thousands of years. In a way, they're the most immortal part of us.
 
@@ -67,4 +70,5 @@ Every groundbreaking discovery starts with someone's "what if?"
 1. Takahashi, K., & Yamanaka, S. (2006). Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors. *Cell*, 126(4), 663-676. [https://doi.org/10.1016/j.cell.2006.07.024](https://doi.org/10.1016/j.cell.2006.07.024)
 2. [Induced Pluripotent Stem Cell Experiments - ASU Embryo Project](https://embryo.asu.edu/pages/induced-pluripotent-stem-cell-experiments-kazutoshi-takahashi-and-shinya-yamanaka-2006-and)
 3. [Nobel Prize 2012 - Medicine](https://www.nobelprize.org/prizes/medicine/2012/summary/)
-4. [Gladstone: Reflecting on a Decade of iPSCs](https://gladstone.org/news/reflecting-discovery-decade-induced-pluripotent-stem-cells)
+4. [Gladstone: Reflecting on a Decade of iPSCs](https://gladstone.org/newsreflecting-discovery-decade-induced-pluripotent-stem-cells)
+5. AI-generated image. (Gemini)
