@@ -35,83 +35,6 @@
     "text": "The Takeaway: Sometimes Simple is Revolutionary\nWhat makes this so beautiful is its simplicity. Not 24 factors. Not 10. Just four. Four transcription factors that could rewrite cellular identity and turn back developmental time. It’s a reminder that sometimes the most elegant solutions are hiding in plain sight, waiting for someone brave enough to test them systematically.\nYamanaka didn’t just discover a technique. He proved that cellular identity is far more flexible than we ever imagined. He showed us that the passage of time, at least at the cellular level, might not be as one-way as we thought.\nEvery groundbreaking discovery starts with someone’s “what if?”\n\n\nReferences\n\nTakahashi, K., & Yamanaka, S. (2006). Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors. Cell, 126(4), 663-676. https://doi.org/10.1016/j.cell.2006.07.024\nInduced Pluripotent Stem Cell Experiments - ASU Embryo Project\nNobel Prize 2012 - Medicine\nGladstone: Reflecting on a Decade of iPSCs\nAI-generated image. (Gemini)"
   },
   {
-    "objectID": "posts/doudna-2012/index.html",
-    "href": "posts/doudna-2012/index.html",
-    "title": "An Acronym That Scared Me (And Probably You Too)",
-    "section": "",
-    "text": "Jennifer Doudna and Emmanuelle Charpentier’s CRISPR revolution\nLet’s talk about CRISPR – one of the most widely-used acronyms in modern biology. I’ll be honest – biology’s love for acronyms intimidated me for years. CRISPR, TALEN, ZFN… they felt like secret codes. CRISPR especially, because everyone talked about it like magic, but nobody explained what it actually meant.\nWell, today we’re breaking that barrier. Because the story of CRISPR isn’t just about cutting-edge science – it starts with something as ordinary as yogurt.\nToday’s paper: “A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity” by Jinek, Charpentier, Doudna et al. (Science, 2012)\nThis paper won the 2020 Nobel Prize in Chemistry and changed biology forever."
-  },
-  {
-    "objectID": "posts/doudna-2012/index.html#the-yogurt-origin-story",
-    "href": "posts/doudna-2012/index.html#the-yogurt-origin-story",
-    "title": "An Acronym That Scared Me (And Probably You Too)",
-    "section": "The Yogurt Origin Story",
-    "text": "The Yogurt Origin Story\nRewind to 2007. Danisco, a Danish food company, had a problem. Bacterial viruses kept killing their yogurt cultures, ruining entire batches.\nWhat they discovered was astonishing: bacteria had a memory system. When a virus attacked, the bacteria would grab a piece of the virus’s DNA and store it in their own genome – like keeping a “wanted poster”. These stored fragments were arranged in a peculiar pattern: Clustered Regularly Interspaced Short Palindromic Repeats – CRISPR.\nIf the same virus attacked again, the bacteria would recognize it and destroy it. It was adaptive immunity at the bacterial level. But nobody imagined this bacterial immune system could become the most powerful genome editing tool in history."
-  },
-  {
-    "objectID": "posts/doudna-2012/index.html#the-challenge-how-do-we-edit-dna-easily",
-    "href": "posts/doudna-2012/index.html#the-challenge-how-do-we-edit-dna-easily",
-    "title": "An Acronym That Scared Me (And Probably You Too)",
-    "section": "The Challenge: How Do We Edit DNA Easily?",
-    "text": "The Challenge: How Do We Edit DNA Easily?\nBy 2012, scientists could edit genomes using tools like ZFNs and TALENs, but here was the nightmare: every time you wanted to target a new gene, you had to engineer an entirely new protein. Expensive. Time-consuming. Like building new scissors from scratch every time you wanted to cut a different thread.\nEnter Jennifer Doudna and Emmanuelle Charpentier.\nThey figured out exactly how the bacterial CRISPR system worked – and how to weaponize it for genome editing.\n\nThe Key Components:\n\nCas9 – The protein that cuts DNA (the scissors)\ncrRNA – Contains the “target address” (20 bases that match your target DNA)\ntracrRNA – Activates Cas9 and helps it work\nPAM sequence – A “NGG” DNA motif next to the target (like a safety lock)\n\nThe DNA only cuts when all four are present: Cas9 + crRNA + tracrRNA + Magnesium.\nThe game-changer? They showed you could combine crRNA and tracrRNA into one engineered guide RNA to direct Cas9 to cut any DNA sequence you wanted. They tested five different guide RNAs targeting five different sequences. All worked perfectly.\nThis paper is from 2012, and if you look at the figures, they’re filled with gel electrophoresis photos. No fancy fluorescence microscopy or sequencing heatmaps – just good old-fashioned DNA bands on gels."
-  },
-  {
-    "objectID": "posts/doudna-2012/index.html#why-crispr-won",
-    "href": "posts/doudna-2012/index.html#why-crispr-won",
-    "title": "An Acronym That Scared Me (And Probably You Too)",
-    "section": "Why CRISPR Won?",
-    "text": "Why CRISPR Won?\nHere’s the revolution:\nOld way (ZFN/TALEN):\n\nWant a new target? → Engineer a new protein\nCost: High | Time: Weeks/months\n\nCRISPR way:\n\nWant a new target? → Design a new 20-base RNA\nCost: Minimal | Time: Days\n\nYou could suddenly access any part of any organism’s DNA by just changing a simple guide RNA. No protein engineering. No expensive reagents. Just simple sequence design.\nBy 2013, labs worldwide were using CRISPR. Today, CRISPR is everywhere: disease modeling, crop engineering, gene therapy, basic research."
-  },
-  {
-    "objectID": "posts/doudna-2012/index.html#the-takeaway-simplicity-wins",
-    "href": "posts/doudna-2012/index.html#the-takeaway-simplicity-wins",
-    "title": "An Acronym That Scared Me (And Probably You Too)",
-    "section": "The Takeaway: Simplicity Wins",
-    "text": "The Takeaway: Simplicity Wins\nCRISPR democratized genome editing. It made the impossible routine. It turned what was once the domain of specialized labs into something any researcher could use. And it all started with scientists trying to save yogurt cultures from viruses.\nSometimes the most revolutionary tools come from the most unexpected places.\n\n\nReferences\n\nJinek, M., Chylinski, K., Fonfara, I., Hauer, M., Doudna, J. A., & Charpentier, E. (2012). A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity. Science, 337(6096), 816-821. https://doi.org/10.1126/science.1225829\nThe Yogurt Connection - Science Magazine\nYogurt’s Role in CRISPR Development\nDoudna and Charpentier’s CRISPR Experiment - ASU Embryo Project\nCRISPR’s 10-Year Anniversary - STAT News\nAI-generated image. (Gemini)"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Us",
-    "section": "",
-    "text": "eli5science is a student-led platform making research accessible to everyone. We believe complex science should be explained simply—without dumbing it down."
-  },
-  {
-    "objectID": "about.html#our-mission",
-    "href": "about.html#our-mission",
-    "title": "About Us",
-    "section": "",
-    "text": "eli5science is a student-led platform making research accessible to everyone. We believe complex science should be explained simply—without dumbing it down."
-  },
-  {
-    "objectID": "about.html#the-team",
-    "href": "about.html#the-team",
-    "title": "About Us",
-    "section": "The Team",
-    "text": "The Team\nWe’re a group of students from India passionate about science communication. This project started as a way to share fascinating research stories with our peers and grew into a platform for collaborative learning."
-  },
-  {
-    "objectID": "about.html#contribute",
-    "href": "about.html#contribute",
-    "title": "About Us",
-    "section": "Contribute",
-    "text": "Contribute\nWant to write with us? Check out our GitHub repository to contribute or reach out to us LinkedIn."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "eli5science",
-    "section": "",
-    "text": "Groundbreaking papers shouldn’t just sit gathering dust. They deserve to be told as the incredible stories they are—stories of curiosity, clever detective work, and moments that changed everything we thought we knew.\nWe’re a student-led platform making research accessible. From biology to AI, we explain the “why” and “so what” behind Nobel-worthy discoveries."
-  },
-  {
-    "objectID": "index.html#about-this-project",
-    "href": "index.html#about-this-project",
-    "title": "eli5science",
-    "section": "",
-    "text": "Groundbreaking papers shouldn’t just sit gathering dust. They deserve to be told as the incredible stories they are—stories of curiosity, clever detective work, and moments that changed everything we thought we knew.\nWe’re a student-led platform making research accessible. From biology to AI, we explain the “why” and “so what” behind Nobel-worthy discoveries."
-  },
-  {
     "objectID": "posts/medawar-1953/index.html",
     "href": "posts/medawar-1953/index.html",
     "title": "Game On: How the Body Knows Its Team",
@@ -152,5 +75,82 @@
     "title": "Game On: How the Body Knows Its Team",
     "section": "The Hall of Fame: How Medawar Rewrote the Playbook",
     "text": "The Hall of Fame: How Medawar Rewrote the Playbook\nAnd with these experiments, Medawar revealed a key principle: acquired immunological tolerance. Exposure to cells early in development teaches the immune system which cells belong to the body, just as a football player learns the team colours before the match. Early-exposed cells are treated as “self,” while new, unfamiliar cells are recognised as outsiders and rejected.\n“Indeed, first impressions truly do matter!”\nWhat our bodies see early on shapes how they respond for life, teaching the immune system to distinguish friend from foe, a lesson in recognition, memory, and trust that lasts a lifetime. So the next time you play, remember, your body’s team was chosen long before you even kicked a ball.\n\n\nReferences\n\nBillingham, R. E., Brent, L., & Medawar, P. B. (1953). Actively acquired tolerance of foreign cells. Nature, 172(4379), 603. https://doi.org/10.1038/172603a0\nAI-generated image. (Gemini)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "eli5science",
+    "section": "",
+    "text": "Groundbreaking papers shouldn’t just sit gathering dust. They deserve to be told as the incredible stories they are—stories of curiosity, clever detective work, and moments that changed everything we thought we knew.\nWe’re a student-led platform making research accessible. From biology to AI, we explain the “why” and “so what” behind Nobel-worthy discoveries."
+  },
+  {
+    "objectID": "index.html#about-this-project",
+    "href": "index.html#about-this-project",
+    "title": "eli5science",
+    "section": "",
+    "text": "Groundbreaking papers shouldn’t just sit gathering dust. They deserve to be told as the incredible stories they are—stories of curiosity, clever detective work, and moments that changed everything we thought we knew.\nWe’re a student-led platform making research accessible. From biology to AI, we explain the “why” and “so what” behind Nobel-worthy discoveries."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "eli5science is a student-led platform making research accessible to everyone. We believe complex science should be explained simply—without dumbing it down."
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About Us",
+    "section": "",
+    "text": "eli5science is a student-led platform making research accessible to everyone. We believe complex science should be explained simply—without dumbing it down."
+  },
+  {
+    "objectID": "about.html#the-team",
+    "href": "about.html#the-team",
+    "title": "About Us",
+    "section": "The Team",
+    "text": "The Team\nWe’re a group of students from India passionate about science communication. This project started as a way to share fascinating research stories with our peers and grew into a platform for collaborative learning."
+  },
+  {
+    "objectID": "about.html#contribute",
+    "href": "about.html#contribute",
+    "title": "About Us",
+    "section": "Contribute",
+    "text": "Contribute\nWant to write with us? Check out our GitHub repository to contribute or reach out to us LinkedIn."
+  },
+  {
+    "objectID": "posts/doudna-2012/index.html",
+    "href": "posts/doudna-2012/index.html",
+    "title": "An Acronym That Scared Me (And Probably You Too)",
+    "section": "",
+    "text": "Jennifer Doudna and Emmanuelle Charpentier’s CRISPR revolution\nLet’s talk about CRISPR – one of the most widely-used acronyms in modern biology. I’ll be honest – biology’s love for acronyms intimidated me for years. CRISPR, TALEN, ZFN… they felt like secret codes. CRISPR especially, because everyone talked about it like magic, but nobody explained what it actually meant.\nWell, today we’re breaking that barrier. Because the story of CRISPR isn’t just about cutting-edge science – it starts with something as ordinary as yogurt.\nToday’s paper: “A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity” by Jinek, Charpentier, Doudna et al. (Science, 2012)\nThis paper won the 2020 Nobel Prize in Chemistry and changed biology forever."
+  },
+  {
+    "objectID": "posts/doudna-2012/index.html#the-yogurt-origin-story",
+    "href": "posts/doudna-2012/index.html#the-yogurt-origin-story",
+    "title": "An Acronym That Scared Me (And Probably You Too)",
+    "section": "The Yogurt Origin Story",
+    "text": "The Yogurt Origin Story\nRewind to 2007. Danisco, a Danish food company, had a problem. Bacterial viruses kept killing their yogurt cultures, ruining entire batches.\nWhat they discovered was astonishing: bacteria had a memory system. When a virus attacked, the bacteria would grab a piece of the virus’s DNA and store it in their own genome – like keeping a “wanted poster”. These stored fragments were arranged in a peculiar pattern: Clustered Regularly Interspaced Short Palindromic Repeats – CRISPR.\nIf the same virus attacked again, the bacteria would recognize it and destroy it. It was adaptive immunity at the bacterial level. But nobody imagined this bacterial immune system could become the most powerful genome editing tool in history."
+  },
+  {
+    "objectID": "posts/doudna-2012/index.html#the-challenge-how-do-we-edit-dna-easily",
+    "href": "posts/doudna-2012/index.html#the-challenge-how-do-we-edit-dna-easily",
+    "title": "An Acronym That Scared Me (And Probably You Too)",
+    "section": "The Challenge: How Do We Edit DNA Easily?",
+    "text": "The Challenge: How Do We Edit DNA Easily?\nBy 2012, scientists could edit genomes using tools like ZFNs and TALENs, but here was the nightmare: every time you wanted to target a new gene, you had to engineer an entirely new protein. Expensive. Time-consuming. Like building new scissors from scratch every time you wanted to cut a different thread.\nEnter Jennifer Doudna and Emmanuelle Charpentier.\nThey figured out exactly how the bacterial CRISPR system worked – and how to weaponize it for genome editing.\n\nThe Key Components:\n\nCas9 – The protein that cuts DNA (the scissors)\ncrRNA – Contains the “target address” (20 bases that match your target DNA)\ntracrRNA – Activates Cas9 and helps it work\nPAM sequence – A “NGG” DNA motif next to the target (like a safety lock)\n\nThe DNA only cuts when all four are present: Cas9 + crRNA + tracrRNA + Magnesium.\nThe game-changer? They showed you could combine crRNA and tracrRNA into one engineered guide RNA to direct Cas9 to cut any DNA sequence you wanted. They tested five different guide RNAs targeting five different sequences. All worked perfectly.\nThis paper is from 2012, and if you look at the figures, they’re filled with gel electrophoresis photos. No fancy fluorescence microscopy or sequencing heatmaps – just good old-fashioned DNA bands on gels."
+  },
+  {
+    "objectID": "posts/doudna-2012/index.html#why-crispr-won",
+    "href": "posts/doudna-2012/index.html#why-crispr-won",
+    "title": "An Acronym That Scared Me (And Probably You Too)",
+    "section": "Why CRISPR Won?",
+    "text": "Why CRISPR Won?\nHere’s the revolution:\nOld way (ZFN/TALEN):\n\nWant a new target? → Engineer a new protein\nCost: High | Time: Weeks/months\n\nCRISPR way:\n\nWant a new target? → Design a new 20-base RNA\nCost: Minimal | Time: Days\n\nYou could suddenly access any part of any organism’s DNA by just changing a simple guide RNA. No protein engineering. No expensive reagents. Just simple sequence design.\nBy 2013, labs worldwide were using CRISPR. Today, CRISPR is everywhere: disease modeling, crop engineering, gene therapy, basic research."
+  },
+  {
+    "objectID": "posts/doudna-2012/index.html#the-takeaway-simplicity-wins",
+    "href": "posts/doudna-2012/index.html#the-takeaway-simplicity-wins",
+    "title": "An Acronym That Scared Me (And Probably You Too)",
+    "section": "The Takeaway: Simplicity Wins",
+    "text": "The Takeaway: Simplicity Wins\nCRISPR democratized genome editing. It made the impossible routine. It turned what was once the domain of specialized labs into something any researcher could use. And it all started with scientists trying to save yogurt cultures from viruses.\nSometimes the most revolutionary tools come from the most unexpected places.\n\n\nReferences\n\nJinek, M., Chylinski, K., Fonfara, I., Hauer, M., Doudna, J. A., & Charpentier, E. (2012). A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity. Science, 337(6096), 816-821. https://doi.org/10.1126/science.1225829\nThe Yogurt Connection - Science Magazine\nYogurt’s Role in CRISPR Development\nDoudna and Charpentier’s CRISPR Experiment - ASU Embryo Project\nCRISPR’s 10-Year Anniversary - STAT News\nAI-generated image. (Gemini)"
   }
 ]
